@@ -1,3 +1,16 @@
+@media only screen and (max-width: 428px) {
+
+    .nav-anti-virus-logos-container img {
+        float: right;
+        margin-right: 1rem;
+        width: 3.5rem;
+    }
+
+    .nav-clarifion-logo-container img {
+        width: 8rem;
+    }
+}
+
 .nav-container {
     display: grid;
     grid-template-columns: auto auto;
@@ -8,12 +21,8 @@
     padding: 1rem;
 }
 
+
 .nav-anti-virus-logos-container {
     margin: 1rem;
     padding: 1rem;
-}
-
-.nav-anti-virus-logos-container img {
-    float: right;
-    margin-right: 1rem;
 }

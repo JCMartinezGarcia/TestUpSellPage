@@ -1,3 +1,23 @@
+@media only screen and (max-width: 428px) {
+    .main-message {
+        width: 100% !important;
+        font-size: 2.2rem !important;
+        text-align: center !important;
+        font-kerning: normal !important;
+        margin: auto !important;
+        padding: 1rem !important;
+    }
+
+    .main-sub-message {
+        width: 100% !important;
+        margin: auto !important;
+        text-align: center !important;
+        font-size: 18px !important;
+        font-weight: lighter !important;
+        color: #000000a3;
+    }
+}
+
 .main-message {
     width: 50%;
     margin: auto;
