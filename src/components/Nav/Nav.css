@@ -1,0 +1,19 @@
+.nav-container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.nav-clarifion-logo-container {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.nav-anti-virus-logos-container {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.nav-anti-virus-logos-container img {
+    float: right;
+    margin-right: 1rem;
+}
