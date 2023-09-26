@@ -1,0 +1,16 @@
+.main-message {
+    width: 50%;
+    margin: auto;
+    font-size: 2.9rem;
+    text-align: center;
+    font-kerning: normal;
+}
+
+.main-sub-message {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    font-size: 23px;
+    font-weight: lighter;
+    color: #000000a3;
+}
