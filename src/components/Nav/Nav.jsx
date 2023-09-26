@@ -9,8 +9,8 @@ const Nav = () => {
                     <img src="../../../src/assets/icons/Clarifion_Logo_1.png" />
                 </div>
                 <div className="nav-anti-virus-logos-container">
-                    <img src="../../../src/assets/icons/McAffee.png" />
                     <img src="../../../src/assets/icons/norton-antivirus-logo_1.png" />
+                    <img src="../../../src/assets/icons/McAffee.png" />
                 </div>
             </div>
         </>

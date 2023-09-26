@@ -22,10 +22,12 @@
 
     .angles {
         display: block !important;
-        font-size: large;
-        margin-left: 1rem;
-        margin-right: 1rem;
     }
+
+    #usps-1{
+        margin-right: 10px;
+    }
+
 }
 
 /* For desktop: */
