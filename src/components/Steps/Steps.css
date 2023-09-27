@@ -1,3 +1,29 @@
+@media only screen and (max-width: 428px) {
+    .steps-container {
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        margin: 0 !important;
+        padding: 0 !important;
+        margin-top: 1rem !important;
+    }
+
+    .steps-items {
+        display: block !important;
+        margin: auto;
+        text-align: center;
+    }
+
+    .steps-items img {
+        padding: 4px;
+        width: 30px !important;
+        height: 30px !important;
+    }
+    .step-number-item{
+        display: none;
+    }
+
+}
+
 .steps-container {
     display: grid;
     grid-template-columns: auto auto auto auto;
