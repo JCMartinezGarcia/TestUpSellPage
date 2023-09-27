@@ -4,6 +4,10 @@
         grid-template-columns: auto !important;
     }
 
+    .usps-container img {
+        margin-right: 5px;
+    }
+
     #usps-2 {
         display: none;
     }
@@ -22,9 +26,12 @@
 
     .angles {
         display: block !important;
+        font-size: large;
+        margin-left: 1rem;
+        margin-right: 1rem;
     }
 
-    #usps-1{
+    #usps-1 {
         margin-right: 10px;
     }
 

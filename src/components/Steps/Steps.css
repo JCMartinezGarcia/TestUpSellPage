@@ -1,0 +1,23 @@
+.steps-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin: 2rem;
+    padding: 1rem;
+
+}
+
+.steps-items {
+    display: inline-flex;
+    margin: auto;
+}
+
+.steps-items img {
+    margin-right: 1rem;
+    padding: 4px;
+    width: 40px;
+    height: 40px;
+}
+
+.steps-items p {
+    margin-top: .7rem;
+}
